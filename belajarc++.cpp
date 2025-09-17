@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 	float tb, bb, BMI;
 	
-	cout << "masukkan nilai tb" << endl;
+	cout << "masukkan nilai tinggi badan" << endl;
 	cin >> tb;
 	cout << "masukkan nilai bb" << endl;
 	cin >> bb;
